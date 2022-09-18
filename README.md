@@ -3,3 +3,4 @@
 Registro das aulas , exercicios e evolução no curso.
 
 15/09 - tipos primitivos , diferença de var e ley
+17/09 - operadores aritiméticos, de atribuição e incremento / alert,confirm,prompt (navegador)
